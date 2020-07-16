@@ -1,2 +1,2 @@
 # ROC-curves
-Find all the generated ROC plots here.
+Find all the generated ROC and accuracy plots here.
